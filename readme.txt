@@ -74,6 +74,7 @@ If you've tried all the obvious stuff and it's still not working please request 
 
 = 1.1 =
 * Security patch for hiding PayPal amount field
+* Corrected currency text on settings screen
 
 = 1.0 =
 * Initial release
@@ -82,6 +83,7 @@ If you've tried all the obvious stuff and it's still not working please request 
 
 = 1.1 =
 * Security patch for hiding PayPal amount field
+* Corrected currency text on settings screen
 
 = 1.0 =
 * Initial release
