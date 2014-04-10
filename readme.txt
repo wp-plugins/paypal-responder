@@ -31,6 +31,14 @@ I developed this plugin for a usage similar to above example. I didn't want a fu
 *	Helpful tags available to use in auto-responder template
 *	Use default PayPal 'buy now' button or upload a png button of your own
 
+= Pro Version Available =
+
+[Get Pro Version](http://enigmaplugins.com/plugins/paypal-responder-pro/) if you need the following advanced features:
+
+*	Attach a file to responder (simple digital delivery of your product)
+*	Unlimited responder templates (so you can use a different email responder for each different product)
+
+
 == Installation ==
 
 1. Upload the `paypal-responder` folder to the `/wp-content/plugins/` directory
