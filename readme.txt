@@ -54,8 +54,11 @@ You can sell whatever you want. There aren't any fancy features in this plugin -
 
 = Can I add more than 1 product? =
 
-Yes the plugin can have any number of products. But at this stage you can only set 1 return URL and 1 email auto-responder template.
-If there are enough users interested I can add the ability to have custom return url and email responder for each product so get in touch and let me know if you want this.
+Yes the plugin can have any number of products. In this free version you can only set 1 return URL and 1 email auto-responder template.
+ 
+= Can I attach a file to send with the auto-responder? =
+
+Not in free version. You can in Pro - [available here.](http://enigmaplugins.com/plugins/paypal-responder-pro/)
 
 = Where can I get support for this plugin? =
 
