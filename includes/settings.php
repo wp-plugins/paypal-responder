@@ -35,7 +35,7 @@ jQuery(document).ready(function() {
                                 <td><input type="text" name="paypalID" value="<?php echo get_option('paypalID'); ?>"  /><span>Paypal account where you will receive payments</span></td>
                             </tr>
                             <tr>
-                            	<td width="150" style="line-height:27px;">Paypal ID</td>
+                            	<td width="150" style="line-height:27px;">Currency</td>
                                 <td><select name="currency">
                                 	<option value="AUD" <?php if(get_option('currency')=='AUD'){echo 'selected="selected"';} ?>>Australian Dollars</option>
                                     <option value="CAD" <?php if(get_option('currency')=='CAD'){echo 'selected="selected"';} ?>>Canadian Dollars</option>
