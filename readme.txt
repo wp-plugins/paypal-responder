@@ -48,6 +48,10 @@ I developed this plugin for a usage similar to above example. I didn't want a fu
  
 == Frequently Asked Questions ==
 
+= The auto-responder is not working =
+
+Firstly, please check your SPAM folder. It's pretty common for WordPress generated email to get sent to SPAM, or even rejected by the recipient mail server entirely.  A good solution is to configure WordPress to send systems generated emails over SMTP instead of using PHP mail(). I recommend Callum Macdonald's plugin [WP Mail SMTP](https://wordpress.org/plugins/wp-mail-smtp/) 
+
 = What could I sell with this plugin? =
 
 You can sell whatever you want. There aren't any fancy features in this plugin - like it doesn't have delivery options, order management etc so it's really designed for just a single simple product. For example I use it to sell access to a private site - after successful checkout user is sent the password to log in. You could use it for other similar things like to sell a PDF or eBook, or you might use it for selling a virtual product or service like say consultation services for example. 
